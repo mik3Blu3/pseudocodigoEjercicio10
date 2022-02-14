@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ejercicio10 
+public class A2E10 
 {
     static Scanner entrada = new Scanner(System.in);
     public static void main(String args[])

@@ -4,7 +4,7 @@ Algoritmo suma_numeros
 	numAuxmod <- 0
 	numMultiplos <- 0
 	Escribir 'Se leeran los numeros hasta que la suma de los mismos llegue a 1000'
-	Mientras sumaNumeros <> 1000 Hacer
+	Mientras sumaNumeros<>1000 Hacer
 		Escribir 'Ingrese el numero: '
 		Leer num
 		sumaNumeros <- sumaNumeros+num
